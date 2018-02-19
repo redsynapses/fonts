@@ -9,11 +9,11 @@ fonts {
   weight: 400
   filename: "BalooTammudu-Regular.ttf"
   post_script_name: "BalooTammudu-Regular"
-  full_name: "Baloo Tammudu"
-  copyright: "Copyright (c) 2015, Ek Type. All rights reserved."
+  full_name: "Baloo Tammudu Regular"
+  copyright: "Copyright (c) 2015 Ek Type (www.ektype.in)"
 }
-subsets: "menu"
 subsets: "latin"
 subsets: "latin-ext"
+subsets: "menu"
 subsets: "telugu"
 subsets: "vietnamese"

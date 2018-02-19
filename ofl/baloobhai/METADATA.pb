@@ -9,11 +9,11 @@ fonts {
   weight: 400
   filename: "BalooBhai-Regular.ttf"
   post_script_name: "BalooBhai-Regular"
-  full_name: "Baloo Bhai"
-  copyright: "Copyright (c) 2015, Ek Type. All rights reserved."
+  full_name: "Baloo Bhai Regular"
+  copyright: "Copyright (c) 2015 Ek Type (www.ektype.in)"
 }
-subsets: "menu"
 subsets: "gujarati"
 subsets: "latin"
 subsets: "latin-ext"
+subsets: "menu"
 subsets: "vietnamese"

@@ -9,11 +9,11 @@ fonts {
   weight: 400
   filename: "BalooDa-Regular.ttf"
   post_script_name: "BalooDa-Regular"
-  full_name: "Baloo Da"
-  copyright: "Copyright (c) 2015, Ek Type. All rights reserved."
+  full_name: "Baloo Da Regular"
+  copyright: "Copyright (c) 2015 Ek Type (www.ektype.in)"
 }
-subsets: "menu"
 subsets: "bengali"
 subsets: "latin"
 subsets: "latin-ext"
+subsets: "menu"
 subsets: "vietnamese"

@@ -1,5 +1,5 @@
 name: "Pacifico"
-designer: "Vernon Adams"
+designer: "Vernon Adams, Jacques Le Bailly, Botjo Nikoltchev, Ani Petrova"
 license: "OFL"
 category: "HANDWRITING"
 date_added: "2011-03-09"
@@ -7,10 +7,13 @@ fonts {
   name: "Pacifico"
   style: "normal"
   weight: 400
-  filename: "Pacifico.ttf"
+  filename: "Pacifico-Regular.ttf"
   post_script_name: "Pacifico-Regular"
   full_name: "Pacifico Regular"
-  copyright: "Copyright (c) 2011 by Vernon Adams (vern@newtypography.co.uk) with Reserved Font Name 'Pacifico'. All rights reserved."
+  copyright: "Copyright 2011 The Pacifico Project Authors (https://github.com/Fonthausen/Pacifico)"
 }
-subsets: "menu"
+subsets: "cyrillic"
 subsets: "latin"
+subsets: "latin-ext"
+subsets: "menu"
+subsets: "vietnamese"
